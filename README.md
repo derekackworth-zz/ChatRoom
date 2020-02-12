@@ -1,5 +1,5 @@
 # ChatRoom
-A React based web application that allows the users to type messages to each other in socket based chat rooms.
+React based web application that allows the users to type messages to each other in socket based chat rooms.
 
 ## Installation
 
